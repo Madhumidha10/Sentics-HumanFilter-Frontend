@@ -3,6 +3,14 @@ This project is a frontend application built with React that visualizes graph da
 
 ![image](https://github.com/user-attachments/assets/b63c9e00-dcc4-4175-bd5a-0a956ba300e3)
 
+**How to Use**
+Select a Metric: Choose from available metrics (e.g., Number of Humans, Average Position X) from the dropdown.
+
+Adjust Time Range: Use the input fields to specify the start and end time for the graph data.
+
+View the Graph: The selected metric will be displayed in a line graph format.
+
+Heatmap Visualization: A heatmap will also be rendered based on the selected time range.
 
 **Features**
 Metric Selection: Users can select a metric (e.g., Number of Humans or Average Position X) to display.
