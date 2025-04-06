@@ -1,6 +1,8 @@
 ###  Graph Data Visualization Frontend
 This project is a frontend application built with React that visualizes graph data, such as the number of humans or average position over time. It fetches data from an API and renders interactive charts with Recharts and HeatmapComponent.
 
+![image](https://github.com/user-attachments/assets/815b5fad-9484-48f4-b347-cf73f0061939)
+
 **Features**
 Metric Selection: Users can select a metric (e.g., Number of Humans or Average Position X) to display.
 
@@ -23,9 +25,6 @@ HTML5 & CSS3: For basic structure and styling.
 **Setup Instructions
 Prerequisites**
 Ensure you have the following installed:
-
-![image](https://github.com/user-attachments/assets/815b5fad-9484-48f4-b347-cf73f0061939)
-
 
 Node.js (preferably the LTS version)
 
