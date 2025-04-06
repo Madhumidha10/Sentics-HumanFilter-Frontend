@@ -24,6 +24,9 @@ HTML5 & CSS3: For basic structure and styling.
 Prerequisites**
 Ensure you have the following installed:
 
+![image](https://github.com/user-attachments/assets/815b5fad-9484-48f4-b347-cf73f0061939)
+
+
 Node.js (preferably the LTS version)
 
 npm (comes with Node.js)
