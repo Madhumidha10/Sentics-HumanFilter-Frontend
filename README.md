@@ -23,6 +23,8 @@ Axios: HTTP client for fetching data from the backend.
 
 HTML5 & CSS3: For basic structure and styling.
 
+Heatmap.js: A JavaScript library used to create heatmaps based on dynamic data.
+
 **Setup Instructions
 Prerequisites**
 Ensure you have the following installed:
